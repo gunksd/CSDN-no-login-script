@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CSDN-no-login-script
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  A script tool that allows you to copy and paste csdn code without logging in
 // @author       Awan
 // @license      AGPL-3.0
